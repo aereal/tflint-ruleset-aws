@@ -203,6 +203,7 @@ var Resources = []string{
 	"aws_elb",
 	"aws_emr_cluster",
 	"aws_emr_studio",
+	"aws_emrcontainers_virtual_cluster",
 	"aws_flow_log",
 	"aws_fms_policy",
 	"aws_fsx_backup",

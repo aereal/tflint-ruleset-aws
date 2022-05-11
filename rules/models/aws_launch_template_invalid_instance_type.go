@@ -532,6 +532,13 @@ func NewAwsLaunchTemplateInvalidInstanceTypeRule() *AwsLaunchTemplateInvalidInst
 			"c6a.48xlarge",
 			"c6a.metal",
 			"m6a.metal",
+			"i4i.large",
+			"i4i.xlarge",
+			"i4i.2xlarge",
+			"i4i.4xlarge",
+			"i4i.8xlarge",
+			"i4i.16xlarge",
+			"i4i.32xlarge",
 		},
 	}
 }
